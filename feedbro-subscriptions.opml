@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Wraeclast.Club Feeds" text="Wraeclast.Club Feeds">
+      <outline text="WraeClub - all posts" title="WraeClub - all posts" type="rss" 
+            xmlUrl="https://wraeclast.club/blog/feed" htmlUrl="https://wraeclast.club" scanDelay="1"/>
+      <outline text="WraeClub - mf category posts" title="WraeClub - mf category posts" type="rss" 
+            xmlUrl="https://wraeclast.club/category/group/mfing/feed" htmlUrl="https://wraeclast.club" scanDelay="1"/>
+  </outline>
+</body>
+</opml>
